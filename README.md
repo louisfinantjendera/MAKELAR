@@ -111,10 +111,10 @@ footer{
     © 2026 Agensi Makelar Indepen Terpercaya | All Rights Reserved
 
     <div class="social-icons">
-        <a href="https://youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a>
-        <a href="https://facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
-        <a href="https://tiktok.com/" target="_blank"><i class="fab fa-tiktok"></i></a>
-        <a href="https://instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://youtube.com/makelarindonesia" target="_blank"><i class="fab fa-youtube"></i></a>
+        <a href="https://facebook.com/makelar" target="_blank"><i class="fab fa-facebook"></i></a>
+        <a href="https://tiktok.com/makelarindonesia" target="_blank"><i class="fab fa-tiktok"></i></a>
+        <a href="https://instagram.com/makelarindonesia" target="_blank"><i class="fab fa-instagram"></i></a>
     </div>
 </footer>
 
