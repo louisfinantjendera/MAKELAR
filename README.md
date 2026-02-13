@@ -92,7 +92,7 @@ footer{
     © 2026 Agensi Makelar Independen Terpercaya | All Rights Reserved
 
     <div class="social-icons">
-        <a href="https://youtube.com/" target="_blank">
+        <a href="https://youtube.com/makelarindonesia" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg">
         </a>
         <a href="https://facebook.com/" target="_blank">
