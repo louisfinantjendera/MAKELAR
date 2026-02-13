@@ -1,8 +1,18 @@
+Siap. Ini HTML lengkap (sudah ada ikon YouTube, Facebook, TikTok, Instagram di footer).
+Tinggal copy semua → jadi index.html di GitHub Pages.
+
+Ganti link sosmed & nomor WhatsApp sesuai punyamu ya.
+
+<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Agen Makelar Terpercaya</title>
+
+<!-- Font Awesome untuk ikon sosmed -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <style>
 body{
     margin:0;
@@ -56,6 +66,8 @@ footer{
     padding:30px 10px;
     margin-top:40px;
 }
+
+/* WhatsApp floating */
 .whatsapp-float{
     position:fixed;
     bottom:20px;
@@ -66,6 +78,20 @@ footer{
     border-radius:50px;
     text-decoration:none;
     font-weight:bold;
+}
+
+/* Social Icons */
+.social-icons{
+    margin-top:15px;
+}
+.social-icons a{
+    margin:0 10px;
+    font-size:28px;
+    color:white;
+    text-decoration:none;
+}
+.social-icons a:hover{
+    opacity:0.7;
 }
 </style>
 </head>
@@ -107,17 +133,16 @@ footer{
 
 <footer>
     © 2026 Agensi Makelar Independen Terpercaya | All Rights Reserved
-<footer>
-    © 2026 Agensi Makelar Indepen Terpercaya | All Rights Reserved
 
     <div class="social-icons">
         <a href="https://youtube.com/makelarindonesia" target="_blank"><i class="fab fa-youtube"></i></a>
-        <a href="https://facebook.com/makelar" target="_blank"><i class="fab fa-facebook"></i></a>
-        <a href="https://tiktok.com/makelarindonesia" target="_blank"><i class="fab fa-tiktok"></i></a>
-        <a href="https://instagram.com/makelarindonesia" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://facebook.com/USERNAME" target="_blank"><i class="fab fa-facebook"></i></a>
+        <a href="https://tiktok.com/@USERNAME" target="_blank"><i class="fab fa-tiktok"></i></a>
+        <a href="https://instagram.com/USERNAME" target="_blank"><i class="fab fa-instagram"></i></a>
     </div>
 </footer>
 
+<a class="whatsapp-float" href="https://wa.me/6288222605888" target="_blank">Chat WA</a>
 
 </body>
 </html>
