@@ -1,17 +1,9 @@
-Siap. Ini HTML lengkap (sudah ada ikon YouTube, Facebook, TikTok, Instagram di footer).
-Tinggal copy semua → jadi index.html di GitHub Pages.
-
-Ganti link sosmed & nomor WhatsApp sesuai punyamu ya.
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Agen Makelar Terpercaya</title>
-
-<!-- Font Awesome untuk ikon sosmed -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <style>
 body{
@@ -25,14 +17,6 @@ header{
     color:white;
     padding:60px 20px;
     text-align:center;
-}
-header h1{
-    margin:0;
-    font-size:40px;
-}
-header p{
-    font-size:20px;
-    margin-top:10px;
 }
 .btn{
     display:inline-block;
@@ -49,9 +33,6 @@ section{
     max-width:1000px;
     margin:auto;
 }
-h2{
-    color:#0b3d91;
-}
 .card{
     background:white;
     padding:20px;
@@ -66,8 +47,14 @@ footer{
     padding:30px 10px;
     margin-top:40px;
 }
-
-/* WhatsApp floating */
+.social-icons{
+    margin-top:20px;
+}
+.social-icons img{
+    width:36px;
+    margin:0 12px;
+    vertical-align:middle;
+}
 .whatsapp-float{
     position:fixed;
     bottom:20px;
@@ -78,20 +65,6 @@ footer{
     border-radius:50px;
     text-decoration:none;
     font-weight:bold;
-}
-
-/* Social Icons */
-.social-icons{
-    margin-top:15px;
-}
-.social-icons a{
-    margin:0 10px;
-    font-size:28px;
-    color:white;
-    text-decoration:none;
-}
-.social-icons a:hover{
-    opacity:0.7;
 }
 </style>
 </head>
@@ -106,24 +79,8 @@ footer{
 <section>
     <h2>Tentang Kami</h2>
     <div class="card">
-        Kami adalah agensi makelar independen yang membantu mempertemukan penjual dan pembeli secara profesional, baik lokal maupun internasional. Kepercayaan, kejujuran, dan komitmen adalah fondasi pelayanan kami.
+        Kami membantu mempertemukan penjual & pembeli secara profesional, aman, dan terpercaya.
     </div>
-</section>
-
-<section>
-    <h2>Layanan Kami</h2>
-    <div class="card">✔️ Perantara jual beli properti, barang, dan aset</div>
-    <div class="card">✔️ Pendampingan negosiasi hingga deal</div>
-    <div class="card">✔️ Verifikasi penjual & pembeli</div>
-    <div class="card">✔️ Jaringan luas lokal & luar negeri</div>
-</section>
-
-<section>
-    <h2>Kenapa Harus Lewat Kami?</h2>
-    <div class="card">✅ Transaksi lebih aman dan terkontrol</div>
-    <div class="card">✅ Menghemat waktu penjual & pembeli</div>
-    <div class="card">✅ Menghindari penipuan & perantara tidak jelas</div>
-    <div class="card">✅ Berpengalaman menangani berbagai jenis transaksi</div>
 </section>
 
 <section style="text-align:center;">
@@ -135,10 +92,18 @@ footer{
     © 2026 Agensi Makelar Independen Terpercaya | All Rights Reserved
 
     <div class="social-icons">
-        <a href="https://youtube.com/makelarindonesia" target="_blank"><i class="fab fa-youtube"></i></a>
-        <a href="https://facebook.com/USERNAME" target="_blank"><i class="fab fa-facebook"></i></a>
-        <a href="https://tiktok.com/@USERNAME" target="_blank"><i class="fab fa-tiktok"></i></a>
-        <a href="https://instagram.com/USERNAME" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://youtube.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg">
+        </a>
+        <a href="https://facebook.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg">
+        </a>
+        <a href="https://tiktok.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg">
+        </a>
+        <a href="https://instagram.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg">
+        </a>
     </div>
 </footer>
 
