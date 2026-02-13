@@ -1,5 +1,3 @@
-# MAKELAR
-MAKELAR INDONESIA
 <!DOCTYPE html>
 <html lang="id">
 <head>
