@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -191,5 +191,4 @@ nav a{margin:8px;display:inline-block}
 <a href="tel:+6288222605888" class="call-float"><i class="fa fa-phone"></i></a>
 <a href="https://wa.me/6288222605888" class="whatsapp-float"><i class="fab fa-whatsapp"></i></a>
 
-</body>
-</html>
+
