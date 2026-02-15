@@ -183,7 +183,7 @@
 
   <div class="social-icons">
     <a href="https://www.youtube.com/@makelarindonesia"><i class="fab fa-youtube"></i></a>
-    <a href=""https://web.facebook.com/makelar><i class="fab fa-facebook"></i></a>
+    <a href=""https://web.facebook.com/makelar"><i class="fab fa-facebook"></i></a>
     <a href="https://www.instagram.com/makelar.indonesia"><i class="fab fa-instagram"></i></a>
     <a href="https://www.tiktok.com/@makelarindonesia"><i class="fab fa-tiktok"></i></a>
   </div>
