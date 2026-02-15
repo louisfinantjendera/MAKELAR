@@ -185,7 +185,7 @@ target="_blank" class="btn">Buka Rute di Google Maps</a>
 
 <section class="social">
 <h2>Ikuti Kami</h2>
-<a href="#"><i class="fab fa-youtube"></i></a>
+<a href="(https://www.youtube.com/makelarindonesia)"><i class="fab fa-youtube"></i></a>
 <a href="#"><i class="fab fa-facebook"></i></a>
 <a href="#"><i class="fab fa-instagram"></i></a>
 <a href="#"><i class="fab fa-tiktok"></i></a>
