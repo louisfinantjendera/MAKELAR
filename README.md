@@ -186,7 +186,7 @@ target="_blank" class="btn">Buka Rute di Google Maps</a>
 <section class="social">
 <h2>Ikuti Kami</h2>
 <a href="https://www.youtube.com/makelarindonesia">target="_blank"></i></a>
-<a href="https//www.facebook.com/makelar"><i class="fab fa-facebook.com/makelar"></i></a> target="_blank"
+<a href="https//www.facebook.com/makelar"> target="_blank"
 <a href="#"><i class="fab fa-instagram"></i></a>
 <a href="#"><i class="fab fa-tiktok"></i></a>
 </section>
